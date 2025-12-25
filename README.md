@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I like building tools, interested in AI, especially AI alignment and mechanistic interpretability
+
 <!--
 **nguyenpnguyen/nguyenpnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

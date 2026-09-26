@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I like building agentic AI tools, interested in AI safety, especially AI alignment and mechanistic interpretability
-
+I like building agentic AI tools, interested in AI safety and trustworthiness
 <!--
 **nguyenpnguyen/nguyenpnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
